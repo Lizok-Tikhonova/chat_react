@@ -1,0 +1,12 @@
+ 
+ .WrapperDialog {
+    margin-left: 60px;
+    margin-top: 75px;
+    display: block;
+
+    width: 780px;
+    height: 1100px;
+    position: relative;
+    /* gap:10px; */
+ 
+}

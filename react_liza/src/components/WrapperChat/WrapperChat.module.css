@@ -1,0 +1,17 @@
+.WrapperChat{
+    margin-left: 60px;
+    margin-top: 75px;
+    display: flex;
+    gap: 30px;
+}
+
+
+.gg{
+    display: block;
+    overflow:auto;
+}
+
+.search{
+    overflow: auto;
+    height: 1000px;
+}

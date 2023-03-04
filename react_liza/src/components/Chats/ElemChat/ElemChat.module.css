@@ -1,0 +1,116 @@
+
+
+.ElemChat2 {
+  padding: 40px 40px 0px 40px;
+  text-decoration: none;
+  color: black;
+  display: block;
+  margin-top: 20px;
+
+  align-items: center;
+  width:515px;
+}
+
+
+.chatNotActive{
+  padding: 40px 40px 0px 40px;
+  text-decoration: none;
+  color: black;
+  display: block;
+  margin-top: 20px;
+}
+
+.chatActive{
+  padding: 40px 40px 0px 40px;
+  text-decoration: none;
+  color: black;
+  display: block;
+  margin-top: 20px;
+  border-radius: 13px; 
+  background: linear-gradient(96.78deg, #7fb5f0 0%, #2482e7 100%); 
+  color:#ffffff;
+}
+
+
+.div1{
+  display: flex;
+  position: relative;
+  align-items:center;
+
+}
+
+.div1_1{
+  display: block;
+}
+
+.div1_1 *{
+  margin: 2.5px;
+}
+
+.name{
+  white-space: pre;
+  font-weight: 780;
+  margin: 0px 0px 0px 0px ;
+}
+
+.div1 img{
+  padding-right: 20px;
+  
+}
+
+
+.time{
+  position: absolute;
+  left: 420px;
+  float: right;
+  margin-right: 0px;
+  white-space: pre;
+  color:rgba(64, 64, 66, 0.667);
+}
+
+
+
+.div2{
+  display: flex;
+  align-items: center;
+}
+
+
+
+.message{
+  width: 480px;
+  margin-right: 10px;
+}
+
+
+
+/* .kolvoMess{
+  height: 20px;
+  width: 20px;
+  border-radius:100%;
+  background-color:rgb(230, 35, 116);
+  text-align: center;
+  font-size: 13.5px;
+  color:white;
+} */
+
+
+
+.status{
+  color:rgb(7, 137, 237);
+  white-space: pre;
+}
+
+.file{
+  display: flex;
+  gap: 10px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+
+
+
+
+
+

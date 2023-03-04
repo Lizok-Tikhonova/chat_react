@@ -1,0 +1,20 @@
+
+
+.files{
+    position: relative;
+    padding-bottom: 20px;
+    /* height: 0px; */
+}
+
+
+.text{
+    position: absolute;
+    bottom: 55%;
+}
+
+
+.text span{
+    padding-left:35px;
+    padding-bottom: 50px;
+    color:#2A8BF2;
+}

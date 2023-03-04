@@ -1,0 +1,29 @@
+
+.ul{
+    display: block;
+
+    list-style: none; 
+    padding-left: 0px;
+    align-items: center;
+}
+
+
+.ul li{
+    border-radius: 13px;
+    background-color:white;
+
+}
+
+/* .mess p {
+    margin: 0px;
+}
+
+.mess{
+    height: 20px;
+    width: 20px;
+    border-radius:100%;
+    background-color:rgb(230, 35, 116);
+    text-align: center;
+    font-size: 13.5px;
+    color:white;
+  } */

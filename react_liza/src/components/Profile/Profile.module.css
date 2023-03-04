@@ -1,0 +1,19 @@
+.img{
+    max-width: auto;
+    max-height: auto;
+    position: relative;
+}
+
+.profile{
+    cursor: pointer;
+    text-align: center ;
+    margin: 0 auto;
+    display: block;
+    white-space: pre;
+    margin-bottom: 40px;
+    
+}
+.profile p{
+    font-weight: 700;
+
+}

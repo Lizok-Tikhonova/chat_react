@@ -1,0 +1,58 @@
+
+.newM{
+padding: 0px 15px 10px 15px;
+position: absolute;
+bottom: 0px;
+display: flex;
+align-items:center;
+background-color:white;
+border-radius:10px;
+width:750px;
+/* margin-top: 50px; */
+margin-top: 10px;
+}
+
+.plus{
+    background-color:rgba(25, 94, 243, 0.886);
+    color:white;
+    border-radius:50px;
+    border:none;
+    width: 55px;
+    height: 55px;
+    font-size: 28px;
+    margin-right: 15px;
+
+    cursor:pointer;
+}
+
+input{
+    width: 550px;
+    height: 80px;
+    border:none;
+    font-size: 18px;
+    border-radius:10px;
+}
+
+.samolet{
+    background-color:rgba(25, 94, 243, 0.886);
+    border-radius:50px;
+    border:none;
+    width: 55px;
+    height: 55px;
+    font-size: 28px;
+    margin-right: 15px;
+    cursor:pointer;
+}
+
+.smile img{
+    
+   
+    width: 30px;
+    height: 30px;
+}
+
+.smile{
+    background-color:white;
+    border:none;
+    margin: 30px;
+}

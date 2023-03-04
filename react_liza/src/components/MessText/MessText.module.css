@@ -1,0 +1,21 @@
+.mes{
+    display: flex;
+}
+
+.mess btn{
+    margin-right: auto;
+
+}
+
+
+.mes button{
+    cursor: pointer;
+    border: none;
+}
+
+.btn{
+    background-color:white;
+    color: white;
+
+
+}

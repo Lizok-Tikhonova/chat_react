@@ -1,0 +1,32 @@
+.HeaderChat{
+    display: flex;
+    gap:300px;
+    align-items: center;
+
+}
+
+
+.but{
+    position: relative;
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    
+   background: linear-gradient(92.68deg, #7CB8F7 0%, #2A8BF2 100%);
+   box-shadow: 6px 6px 25px rgba(42, 139, 242, 0.15), 4px 4px 25px rgba(42, 139, 242, 0.05), 10px 6px 25px rgba(42, 139, 242, 0.15);
+   border-radius: 6px;
+   border: none;
+   color: white;
+   font-size: 16px;
+}
+
+
+.HeaderChat h1{
+    /* font-weight: 500; */
+    font-size: 36px;
+    line-height: 26px;
+}
+
+
+
+

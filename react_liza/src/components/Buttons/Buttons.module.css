@@ -1,0 +1,15 @@
+.but_exit{
+display: flex;
+/* margin-top: 500px; */
+align-items: center;
+gap: 15px;
+cursor: pointer;
+}
+
+
+.but_exit button{
+    border: none;
+    background-color: white;
+    color: rgb(65, 68, 70);
+    font-size: 16px;
+}

@@ -1,0 +1,49 @@
+.D_profile{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    padding: 25px;
+    margin-bottom: 3px;
+    position: relative;
+    border-radius: 10px;
+    /* border-radius:15%; */
+}
+
+.settings{
+    display: flex;
+    right: 20px;
+    position: absolute;
+}
+
+
+.D_profile button{
+    height: 35px;
+    width: 35px;
+    border-radius: 100%;
+    box-shadow: 0 0 5px;
+    border: none;
+    background-color:white;
+    margin-right: 15px;
+    
+}
+
+ .name_{
+    margin-right: 400px;
+    white-space: pre;
+
+} 
+
+
+
+.name_ p{
+    margin: 0;
+    color: rgb(39, 127, 229);
+}
+.name_ h3{
+    margin: 0;
+}
+
+
+.D_profile img{
+    margin-right: 20px;
+}
